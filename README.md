@@ -2,7 +2,7 @@
 
 A 2D side-scrolling world simulator built in Java on top of the [DanoGameLab](https://github.com/danoble/DanoGameLab) (`danogl`) engine: an infinite, procedurally generated terrain with a day/night cycle, trees that bear fruit, rain-dropping clouds, and a playable, animated avatar with an energy system.
 
-![Avatar sprite sheet (idle, run, jump)](images/avatar_sprites.png)
+
 
 ## Features
 
@@ -72,9 +72,5 @@ java -cp out:danogl.jar:. pepse.PepseGameManager
 
 ## Tech Stack
 
-Java, DanoGameLab (danogl)
+Java
 
-## Author
-
-**Ori** - Computer Science graduate, The Hebrew University of Jerusalem
-[LinkedIn](#) | [Email](#)
